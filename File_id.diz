@@ -1,0 +1,15 @@
+ProcessExplorer v0.02 for Windows 95/98/Me/2000/XP
+
+A tool for viewing processes and modules loaded by
+them (GPL 2 License)
+
+Copyright (c)2003 Dmitry Kann/Dale,
+http://devtools.narod.ru
+
+Based on an original idea of Jeffrey Richter,
+http://www.jeffreyrichter.com
+
+Source code requires Toolbar 2000 library, which
+can be downloaded at http://www.jrsoftware.org
+
+See the file COPYING for distribution terms

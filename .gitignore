@@ -1,0 +1,13 @@
+*.bak
+*.dcu
+*.ddp
+*.dll
+*.drc
+*.dsk
+*.exe
+*.identcache
+*.local
+*.map
+*.~*~
+__history
+bin/*.zip
