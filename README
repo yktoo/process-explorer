@@ -1,0 +1,23 @@
+ProcessExplorer
+===============
+
+A tool for viewing processes and modules loaded by them.
+
+
+Requirements
+------------
+
+Runs on Windows 95/98/Me/2000/XP
+
+
+License and Source Code
+-----------------------
+
+Copyright (c)2003 Dmitry Kann
+
+Based on an original idea of Jeffrey Richter, http://www.jeffreyrichter.com
+
+Source code requires Toolbar 2000 library, which can be downloaded from
+http://www.jrsoftware.org
+
+Licensed under GNU GPL 3.
